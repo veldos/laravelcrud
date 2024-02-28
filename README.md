@@ -1,6 +1,8 @@
 # Title: Laravel crud app
 
 
-![Screenshot](Screenshot%20from%202024-02-28%2016-14-18.png)
-![Screenshot](Screenshot%20from%202024-02-28%2016-14-45.png)
-![Screenshot](Screenshot%20from%202024-02-28%2016-15-01.png)
+![Screenshot](1.png)
+![Screenshot](2.png)
+![Screenshot](3.png)
+
+### This project is created  to implement CRUD operations in Laravel. Laravel will be used to create, read, update, and delete data from a database, and i used Mysql commandline and workbench to fill the tables.
